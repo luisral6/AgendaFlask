@@ -6,11 +6,11 @@
 ## Most popular IDEs
 ## What type of applications the framework is best suited for?
 ## GIFs
-
+### Create
 ![](Create.gif)
-
+### Read
 ![](Read.gif)
-
+### Update
 ![](Update.gif)
-
+### Delete
 ![](Delete.gif)
