@@ -61,10 +61,10 @@ def insert():
 
         return redirect(url_for('Index'))
 
-@app.route('/delete/<string:id_data>',methods=['POST','GET'])
+@app.route('/delete/<string:id_data>',methods=['GET'])
 def delete(id_data):
-    cur=mysql.connection.cursor()
-    cur.execute("DELETE FROM contactos WHERE id=%s",(id_data))
+    cur = mysql.connection.cursor()
+    cur.execute("DELETE FROM contactos WHERE id=%s",(id_data,))
     mysql.connection.commit()
 
     flash("Data deleted succesfully")
