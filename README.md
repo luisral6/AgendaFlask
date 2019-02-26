@@ -7,3 +7,4 @@
 ## What type of applications the framework is best suited for?
 ## GIFs
 
+![](Create.gif)
