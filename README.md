@@ -8,3 +8,9 @@
 ## GIFs
 
 ![](Create.gif)
+
+![](Read.gif)
+
+![](Update.gif)
+
+![](Delete.gif)
