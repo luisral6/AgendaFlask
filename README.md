@@ -2,20 +2,20 @@
 
 ## Advantages and disadvantages of the programming language.
 
-# Advantages
+### Advantages
 -Simplicity. One of the easiest programming languages to learn.
 -Extensive support libraries.
 
-# Disadvantages
+### Disadvantages
 -As an interpreted language it has a slower speed of execution.
 -The bugs only appear during run time.
 -Underdeveloped database access layers. When compared with Java, for example, with JDBC.
 
 ## Advantages and disadvantages of the web application framework/stack.
 
-# Advantages
+### Advantages
 
-# Disadvantages
+### Disadvantages
 
 ## More common technologies used with the platform/framework
 
