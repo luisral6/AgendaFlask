@@ -14,8 +14,12 @@
 ## Advantages and disadvantages of the web application framework/stack.
 
 ### Advantages
+- Small core and easily extensible
+- Easy URL routing.
 
 ### Disadvantages
+- No database abstraction layer.
+- Not asynchronous friendly.
 
 ## More common technologies used with the platform/framework
 
@@ -47,3 +51,5 @@ Sources
 https://webcase.studio/blog/advantages-and-disadvantages-python-programming-language/
 https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121
 https://docs.python-guide.org/scenarios/web/
+https://stackify.com/python-frameworks/
+https://www.codingdojo.com/blog/choosing-python-web-frameworks
