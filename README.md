@@ -22,10 +22,10 @@
 
 ## Most popular IDEs
 
--PyCharm: A paid IDE developed by JetBrains. Very robust and with a lot of features.
--IDLE: The minimal IDE for developing python. It is a free IDE.
--Atom: Facilitates pretty much everything, it describes itself as a "hackable" IDE.
--Sublime Text: It's like the swiss army of IDEs.
+- PyCharm: A paid IDE developed by JetBrains. Very robust and with a lot of features.
+- IDLE: The minimal IDE for developing python. It is a free IDE.
+- Atom: Facilitates pretty much everything, it describes itself as a "hackable" IDE.
+- Sublime Text: It's like the swiss army of IDEs.
 
 ## What type of applications the framework is best suited for?
 
