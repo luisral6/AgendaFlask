@@ -19,6 +19,7 @@
 
 ## More common technologies used with the platform/framework
 
+
 ## Most popular IDEs
 
 -PyCharm: A paid IDE developed by JetBrains. Very robust and with a lot of features.
@@ -27,6 +28,8 @@
 -Sublime Text: It's like the swiss army of IDEs.
 
 ## What type of applications the framework is best suited for?
+
+Because it is a "microframework", it is best suited for building small applications, APIs, and web services. 
 
 ## GIFs
 ### Create
@@ -43,3 +46,4 @@ Sources
 
 https://webcase.studio/blog/advantages-and-disadvantages-python-programming-language/
 https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121
+https://docs.python-guide.org/scenarios/web/
