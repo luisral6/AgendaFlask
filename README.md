@@ -21,8 +21,10 @@
 - No database abstraction layer.
 - Not asynchronous friendly.
 
-## More common technologies used with the platform/framework
+## Most common technologies used with the platform/framework
 
+- SQLalchemy: A toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+- PIP: A packaging manager for Python.
 
 ## Most popular IDEs
 
@@ -53,3 +55,4 @@ https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python
 https://docs.python-guide.org/scenarios/web/
 https://stackify.com/python-frameworks/
 https://www.codingdojo.com/blog/choosing-python-web-frameworks
+https://www.sqlalchemy.org
