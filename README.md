@@ -3,10 +3,12 @@
 ## Advantages and disadvantages of the programming language.
 
 ### Advantages
+
 - Simplicity. One of the easiest programming languages to learn.
 - Extensive support libraries.
 
 ### Disadvantages
+
 - As an interpreted language it has a slower speed of execution.
 - The bugs only appear during run time.
 - Underdeveloped database access layers. When compared with Java, for example, with JDBC.
@@ -14,10 +16,12 @@
 ## Advantages and disadvantages of the web application framework/stack.
 
 ### Advantages
+
 - Small core and easily extensible
 - Easy URL routing.
 
 ### Disadvantages
+
 - No database abstraction layer.
 - Not asynchronous friendly.
 
@@ -38,13 +42,21 @@
 Because it is a "microframework", it is best suited for building small applications, APIs, and web services. 
 
 ## GIFs
+
 ### Create
+
 ![](Create.gif)
+
 ### Read
+
 ![](Read.gif)
+
 ### Update
+
 ![](Update.gif)
+
 ### Delete
+
 ![](Delete.gif)
 
 
