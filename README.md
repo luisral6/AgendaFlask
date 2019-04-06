@@ -51,8 +51,13 @@ Because it is a "microframework", it is best suited for building small applicati
 Sources
 
 https://webcase.studio/blog/advantages-and-disadvantages-python-programming-language/
+
 https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121
+
 https://docs.python-guide.org/scenarios/web/
+
 https://stackify.com/python-frameworks/
+
 https://www.codingdojo.com/blog/choosing-python-web-frameworks
+
 https://www.sqlalchemy.org
